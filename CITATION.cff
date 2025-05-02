@@ -1,0 +1,16 @@
+@ARTICLE{joseph2025uvit,
+       author = {{Joseph}, Prajwel and {Tandon}, S.~N. and {Ghosh}, S.~K. and {Stalin}, C.~S.},
+        title = "{UVIT Data Release version 7: Regenerated high-level UVIT data products}",
+      journal = {arXiv e-prints},
+     keywords = {Instrumentation and Methods for Astrophysics, Astrophysics of Galaxies, High Energy Astrophysical Phenomena, Solar and Stellar Astrophysics},
+         year = 2025,
+        month = apr,
+          eid = {arXiv:2504.00982},
+        pages = {arXiv:2504.00982},
+          doi = {10.48550/arXiv.2504.00982},
+archivePrefix = {arXiv},
+       eprint = {2504.00982},
+ primaryClass = {astro-ph.IM},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2025arXiv250400982J},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
